@@ -1,4 +1,11 @@
-#FunciÛn a trabajar ln(x)
+  
+#     * Analisis Numerico 2020-1 *
+#--Trabajo realizado por:
+# Monica A. Alvarez C.
+# Santiago Palacios L.
+# Paula Pi√±eros P.
+
+#Funci√≥n a trabajar ln(x)
 f <- function(x){
   return(log(x))
 }
@@ -16,7 +23,7 @@ for (j in 1:10){
 Tab = data.frame(x,fx)
 Tab
 
-#MÈtodo de diferencias divididas
+#M√©todo de diferencias divididas
 diffdiv <- c(0)
 i = 1
 diffdiv[i] = (fx[i+1]-fx[i])/(x[i+1]-x[i])
