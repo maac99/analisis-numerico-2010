@@ -1,0 +1,6 @@
+Tomamos la base de datos de: 
+	https://github.com/pcm-dpc/COVID-19/tree/master/dati-andamento-nazionale
+
+Obtuvimos información de:
+	https://www.maa.org/press/periodicals/loci/joma/the-sir-model-for-spread-of-disease-the-differential-equation-model
+	https://biblioteca.unirioja.es/tfe_e/TFE002211.pdf   
